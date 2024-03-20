@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "djxhvLYn0+NIjyAO42NoBypfyms5sp13ZOO9ebYVsvs=",
+  "Source": "lab2",
+  "BasePath": "_content/lab2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "lab2\\wwwroot",
+      "Source": "lab2",
+      "ContentRoot": "C:\\Users\\rychk\\OneDrive\\Рабочий стол\\облака\\lab4\\lab2\\wwwroot\\",
+      "BasePath": "_content/lab2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\rychk\\OneDrive\\Рабочий стол\\облака\\lab4\\lab2\\wwwroot\\SwaggerDark.css",
+      "SourceId": "lab2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rychk\\OneDrive\\Рабочий стол\\облака\\lab4\\lab2\\wwwroot\\",
+      "BasePath": "_content/lab2",
+      "RelativePath": "SwaggerDark.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\SwaggerDark.css"
+    }
+  ]
+}

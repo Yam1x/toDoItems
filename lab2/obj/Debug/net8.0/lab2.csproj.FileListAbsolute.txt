@@ -1,0 +1,153 @@
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\lab2\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\lab2\bin\Debug\net8.0\appsettings.json
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\lab2\bin\Debug\net8.0\lab2.staticwebassets.runtime.json
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\lab2\bin\Debug\net8.0\lab2.exe
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\lab2\bin\Debug\net8.0\lab2.deps.json
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\lab2\bin\Debug\net8.0\lab2.runtimeconfig.json
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\lab2\bin\Debug\net8.0\lab2.dll
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\lab2\bin\Debug\net8.0\lab2.pdb
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\lab2\obj\Debug\net8.0\lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\lab2\obj\Debug\net8.0\lab2.AssemblyInfoInputs.cache
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\lab2\obj\Debug\net8.0\lab2.AssemblyInfo.cs
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\lab2\obj\Debug\net8.0\lab2.csproj.CoreCompileInputs.cache
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\lab2\obj\Debug\net8.0\lab2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\lab2\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\lab2\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\lab2\obj\Debug\net8.0\staticwebassets\msbuild.lab2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\lab2\obj\Debug\net8.0\staticwebassets\msbuild.build.lab2.props
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\lab2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.lab2.props
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\lab2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.lab2.props
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\lab2\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\lab2\obj\Debug\net8.0\scopedcss\bundle\lab2.styles.css
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\lab2\obj\Debug\net8.0\lab2.dll
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\lab2\obj\Debug\net8.0\refint\lab2.dll
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\lab2\obj\Debug\net8.0\lab2.pdb
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\lab2\obj\Debug\net8.0\lab2.genruntimeconfig.cache
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\lab2\obj\Debug\net8.0\ref\lab2.dll
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\lab2\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\lab2\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\lab2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\lab2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\lab2\obj\Debug\net8.0\lab2.csproj.AssemblyReference.cache
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\lab2\obj\Debug\net8.0\lab2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\lab2\obj\Debug\net8.0\lab2.csproj.Up2Date
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\lab2\bin\Debug\net8.0\MediatR.dll
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\lab2\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\lab2\bin\Debug\net8.0\Application.dll
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\lab2\bin\Debug\net8.0\Application.pdb
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\lab2\bin\Debug\net8.0\Asp.Versioning.Abstractions.dll
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\lab2\bin\Debug\net8.0\Asp.Versioning.Http.dll
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\lab2\bin\Debug\net8.0\Asp.Versioning.Mvc.dll
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\lab2\bin\Debug\net8.0\Asp.Versioning.Mvc.ApiExplorer.dll
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\lab2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\lab2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\lab2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\lab2\bin\Debug\net8.0\Npgsql.dll
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\lab2\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\lab2\bin\Debug\net8.0\Domain.dll
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\lab2\bin\Debug\net8.0\Persistence.dll
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\lab2\bin\Debug\net8.0\Persistence.pdb
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\lab2\bin\Debug\net8.0\Domain.pdb
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\lab2\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\rychk\Desktop\lab2\lab2\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\rychk\Desktop\lab2\lab2\bin\Debug\net8.0\appsettings.json
+C:\Users\rychk\Desktop\lab2\lab2\bin\Debug\net8.0\lab2.staticwebassets.runtime.json
+C:\Users\rychk\Desktop\lab2\lab2\bin\Debug\net8.0\lab2.exe
+C:\Users\rychk\Desktop\lab2\lab2\bin\Debug\net8.0\lab2.deps.json
+C:\Users\rychk\Desktop\lab2\lab2\bin\Debug\net8.0\lab2.runtimeconfig.json
+C:\Users\rychk\Desktop\lab2\lab2\bin\Debug\net8.0\lab2.dll
+C:\Users\rychk\Desktop\lab2\lab2\bin\Debug\net8.0\lab2.pdb
+C:\Users\rychk\Desktop\lab2\lab2\bin\Debug\net8.0\Asp.Versioning.Abstractions.dll
+C:\Users\rychk\Desktop\lab2\lab2\bin\Debug\net8.0\Asp.Versioning.Http.dll
+C:\Users\rychk\Desktop\lab2\lab2\bin\Debug\net8.0\Asp.Versioning.Mvc.dll
+C:\Users\rychk\Desktop\lab2\lab2\bin\Debug\net8.0\Asp.Versioning.Mvc.ApiExplorer.dll
+C:\Users\rychk\Desktop\lab2\lab2\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\rychk\Desktop\lab2\lab2\bin\Debug\net8.0\MediatR.dll
+C:\Users\rychk\Desktop\lab2\lab2\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\rychk\Desktop\lab2\lab2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rychk\Desktop\lab2\lab2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rychk\Desktop\lab2\lab2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rychk\Desktop\lab2\lab2\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\rychk\Desktop\lab2\lab2\bin\Debug\net8.0\Npgsql.dll
+C:\Users\rychk\Desktop\lab2\lab2\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\rychk\Desktop\lab2\lab2\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rychk\Desktop\lab2\lab2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rychk\Desktop\lab2\lab2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rychk\Desktop\lab2\lab2\bin\Debug\net8.0\Application.dll
+C:\Users\rychk\Desktop\lab2\lab2\bin\Debug\net8.0\Domain.dll
+C:\Users\rychk\Desktop\lab2\lab2\bin\Debug\net8.0\Persistence.dll
+C:\Users\rychk\Desktop\lab2\lab2\bin\Debug\net8.0\Application.pdb
+C:\Users\rychk\Desktop\lab2\lab2\bin\Debug\net8.0\Persistence.pdb
+C:\Users\rychk\Desktop\lab2\lab2\bin\Debug\net8.0\Domain.pdb
+C:\Users\rychk\Desktop\lab2\lab2\obj\Debug\net8.0\lab2.csproj.AssemblyReference.cache
+C:\Users\rychk\Desktop\lab2\lab2\obj\Debug\net8.0\lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rychk\Desktop\lab2\lab2\obj\Debug\net8.0\lab2.AssemblyInfoInputs.cache
+C:\Users\rychk\Desktop\lab2\lab2\obj\Debug\net8.0\lab2.AssemblyInfo.cs
+C:\Users\rychk\Desktop\lab2\lab2\obj\Debug\net8.0\lab2.csproj.CoreCompileInputs.cache
+C:\Users\rychk\Desktop\lab2\lab2\obj\Debug\net8.0\lab2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rychk\Desktop\lab2\lab2\obj\Debug\net8.0\lab2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rychk\Desktop\lab2\lab2\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\rychk\Desktop\lab2\lab2\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\rychk\Desktop\lab2\lab2\obj\Debug\net8.0\staticwebassets\msbuild.lab2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rychk\Desktop\lab2\lab2\obj\Debug\net8.0\staticwebassets\msbuild.build.lab2.props
+C:\Users\rychk\Desktop\lab2\lab2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.lab2.props
+C:\Users\rychk\Desktop\lab2\lab2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.lab2.props
+C:\Users\rychk\Desktop\lab2\lab2\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\rychk\Desktop\lab2\lab2\obj\Debug\net8.0\scopedcss\bundle\lab2.styles.css
+C:\Users\rychk\Desktop\lab2\lab2\obj\Debug\net8.0\lab2.csproj.CopyComplete
+C:\Users\rychk\Desktop\lab2\lab2\obj\Debug\net8.0\lab2.dll
+C:\Users\rychk\Desktop\lab2\lab2\obj\Debug\net8.0\refint\lab2.dll
+C:\Users\rychk\Desktop\lab2\lab2\obj\Debug\net8.0\lab2.pdb
+C:\Users\rychk\Desktop\lab2\lab2\obj\Debug\net8.0\lab2.genruntimeconfig.cache
+C:\Users\rychk\Desktop\lab2\lab2\obj\Debug\net8.0\ref\lab2.dll
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\lab2\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\lab2\bin\Debug\net8.0\appsettings.json
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\lab2\bin\Debug\net8.0\lab2.staticwebassets.runtime.json
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\lab2\bin\Debug\net8.0\lab2.exe
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\lab2\bin\Debug\net8.0\lab2.deps.json
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\lab2\bin\Debug\net8.0\lab2.runtimeconfig.json
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\lab2\bin\Debug\net8.0\lab2.dll
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\lab2\bin\Debug\net8.0\lab2.pdb
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\lab2\bin\Debug\net8.0\Asp.Versioning.Abstractions.dll
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\lab2\bin\Debug\net8.0\Asp.Versioning.Http.dll
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\lab2\bin\Debug\net8.0\Asp.Versioning.Mvc.dll
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\lab2\bin\Debug\net8.0\Asp.Versioning.Mvc.ApiExplorer.dll
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\lab2\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\lab2\bin\Debug\net8.0\MediatR.dll
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\lab2\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\lab2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\lab2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\lab2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\lab2\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\lab2\bin\Debug\net8.0\Npgsql.dll
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\lab2\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\lab2\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\lab2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\lab2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\lab2\bin\Debug\net8.0\Application.dll
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\lab2\bin\Debug\net8.0\Domain.dll
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\lab2\bin\Debug\net8.0\Persistence.dll
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\lab2\bin\Debug\net8.0\Application.pdb
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\lab2\bin\Debug\net8.0\Persistence.pdb
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\lab2\bin\Debug\net8.0\Domain.pdb
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\lab2\obj\Debug\net8.0\lab2.csproj.AssemblyReference.cache
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\lab2\obj\Debug\net8.0\lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\lab2\obj\Debug\net8.0\lab2.AssemblyInfoInputs.cache
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\lab2\obj\Debug\net8.0\lab2.AssemblyInfo.cs
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\lab2\obj\Debug\net8.0\lab2.csproj.CoreCompileInputs.cache
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\lab2\obj\Debug\net8.0\lab2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\lab2\obj\Debug\net8.0\lab2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\lab2\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\lab2\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\lab2\obj\Debug\net8.0\staticwebassets\msbuild.lab2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\lab2\obj\Debug\net8.0\staticwebassets\msbuild.build.lab2.props
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\lab2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.lab2.props
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\lab2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.lab2.props
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\lab2\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\lab2\obj\Debug\net8.0\scopedcss\bundle\lab2.styles.css
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\lab2\obj\Debug\net8.0\lab2.csproj.Up2Date
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\lab2\obj\Debug\net8.0\lab2.dll
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\lab2\obj\Debug\net8.0\refint\lab2.dll
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\lab2\obj\Debug\net8.0\lab2.pdb
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\lab2\obj\Debug\net8.0\lab2.genruntimeconfig.cache
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\lab2\obj\Debug\net8.0\ref\lab2.dll

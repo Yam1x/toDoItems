@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\rychk\\OneDrive\\Рабочий стол\\облака\\lab4\\lab2\\wwwroot\\SwaggerDark.css",
+      "PackagePath": "staticwebassets\\SwaggerDark.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.lab2.props",
+      "PackagePath": "build\\lab2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.lab2.props",
+      "PackagePath": "buildMultiTargeting\\lab2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.lab2.props",
+      "PackagePath": "buildTransitive\\lab2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.lab2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

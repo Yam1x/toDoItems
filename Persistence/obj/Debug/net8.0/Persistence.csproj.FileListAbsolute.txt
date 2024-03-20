@@ -1,0 +1,51 @@
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\Persistence\bin\Debug\net8.0\Persistence.deps.json
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\Persistence\bin\Debug\net8.0\Persistence.dll
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\Persistence\bin\Debug\net8.0\Persistence.pdb
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\Persistence\bin\Debug\net8.0\Application.dll
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\Persistence\bin\Debug\net8.0\Domain.dll
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\Persistence\bin\Debug\net8.0\Application.pdb
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\Persistence\bin\Debug\net8.0\Domain.pdb
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\Persistence\obj\Debug\net8.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\Persistence\obj\Debug\net8.0\Persiste.61C28332.Up2Date
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\Persistence\obj\Debug\net8.0\Persistence.dll
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\Persistence\obj\Debug\net8.0\refint\Persistence.dll
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\Persistence\obj\Debug\net8.0\Persistence.pdb
+C:\Users\rychk\OneDrive\Рабочий стол\lab2\Persistence\obj\Debug\net8.0\ref\Persistence.dll
+C:\Users\rychk\Desktop\lab2\Persistence\bin\Debug\net8.0\Persistence.deps.json
+C:\Users\rychk\Desktop\lab2\Persistence\bin\Debug\net8.0\Persistence.dll
+C:\Users\rychk\Desktop\lab2\Persistence\bin\Debug\net8.0\Persistence.pdb
+C:\Users\rychk\Desktop\lab2\Persistence\bin\Debug\net8.0\Application.dll
+C:\Users\rychk\Desktop\lab2\Persistence\bin\Debug\net8.0\Domain.dll
+C:\Users\rychk\Desktop\lab2\Persistence\bin\Debug\net8.0\Application.pdb
+C:\Users\rychk\Desktop\lab2\Persistence\bin\Debug\net8.0\Domain.pdb
+C:\Users\rychk\Desktop\lab2\Persistence\obj\Debug\net8.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\rychk\Desktop\lab2\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rychk\Desktop\lab2\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\rychk\Desktop\lab2\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+C:\Users\rychk\Desktop\lab2\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\rychk\Desktop\lab2\Persistence\obj\Debug\net8.0\Persistence.csproj.CopyComplete
+C:\Users\rychk\Desktop\lab2\Persistence\obj\Debug\net8.0\Persistence.dll
+C:\Users\rychk\Desktop\lab2\Persistence\obj\Debug\net8.0\refint\Persistence.dll
+C:\Users\rychk\Desktop\lab2\Persistence\obj\Debug\net8.0\Persistence.pdb
+C:\Users\rychk\Desktop\lab2\Persistence\obj\Debug\net8.0\ref\Persistence.dll
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\Persistence\bin\Debug\net8.0\Persistence.deps.json
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\Persistence\bin\Debug\net8.0\Persistence.dll
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\Persistence\bin\Debug\net8.0\Persistence.pdb
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\Persistence\bin\Debug\net8.0\Application.dll
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\Persistence\bin\Debug\net8.0\Domain.dll
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\Persistence\bin\Debug\net8.0\Application.pdb
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\Persistence\bin\Debug\net8.0\Domain.pdb
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\Persistence\obj\Debug\net8.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\Persistence\obj\Debug\net8.0\Persiste.61C28332.Up2Date
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\Persistence\obj\Debug\net8.0\Persistence.dll
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\Persistence\obj\Debug\net8.0\refint\Persistence.dll
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\Persistence\obj\Debug\net8.0\Persistence.pdb
+C:\Users\rychk\OneDrive\Рабочий стол\облака\lab4\Persistence\obj\Debug\net8.0\ref\Persistence.dll
